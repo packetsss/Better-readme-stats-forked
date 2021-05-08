@@ -1,6 +1,6 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/packetsss)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/packetsss">
 
 ![](https://github.com/packetsss/Better-readme-stats-forked/blob/master/generated/overview.svg)
 ![](https://github.com/packetsss/Better-readme-stats-forked/blob/master/generated/languages.svg)
