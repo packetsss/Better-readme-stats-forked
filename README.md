@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/pyj2001/Better-readme-stats-forked/blob/master/generated/overview.svg)
-![](https://github.com/pyj2001/Better-readme-stats-forked/blob/master/generated/languages.svg)
+![](https://github.com/packetsss/Better-readme-stats-forked/blob/master/generated/overview.svg)
+![](https://github.com/packetsss/Better-readme-stats-forked/blob/master/generated/languages.svg)
 
 </a>
 
